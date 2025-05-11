@@ -4,7 +4,7 @@
 e
 
 - 🌱 I’m currently learning Kubernetes and advanced Terraform modules
-- 🛠️ Tech Stack: AWS | Docker | Kubernetes | ECS | Jenkins | GitHub Actions | GitLab CI/CD | Terraform | Python | Bash
+- 🛠️ Tech Stack: AWS | Docker | Kubernetes | ECS | Jenkins | GitHub Actions | GitLab CI/CD | Terraform | Python | Bash | New Relic | Prometheus | Grafana
 - 💬 Ask me about DevOps best practices, CI/CD pipelines, or anything about AWS
 - 📫 How to reach me: akshaydesh360@gmail.com
 - 🌐 Connect with me on [LinkedIn](https://www.linkedin.com/in/akshay-deshpande-3694391a0/)
