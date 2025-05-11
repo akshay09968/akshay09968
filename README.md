@@ -1,6 +1,7 @@
 ### Hello 👋 I'm Akshay Deshpande
 
-🚀 DevOps Engineer | AWS Certified | Passionate about cloud automation and infrastructure as code
+🚀 DevOps Engineer | AWS Certified | Passionate about cloud automation, containerization, and scalable infrastructure.
+e
 
 - 🌱 I’m currently learning Kubernetes and advanced Terraform modules
 - 🛠️ Tech Stack: AWS | Docker | Kubernetes | ECS | Jenkins | GitHub Actions | GitLab CI/CD | Terraform | Python | Bash
