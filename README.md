@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Akshay Deshpande
+### Hello 👋 I'm Akshay Deshpande
 
 🚀 DevOps Engineer | AWS Certified | Passionate about cloud automation and infrastructure as code
 
