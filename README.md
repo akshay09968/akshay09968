@@ -1,7 +1,6 @@
 ### Hello 👋 I'm Akshay Deshpande
 
 🚀 DevOps Engineer | Passionate about cloud automation, containerization, and scalable infrastructure.
-e
 
 - 🌱 I’m currently learning Kubernetes and advanced Terraform modules
 - 🛠️ Tech Stack: AWS | Docker | Kubernetes | ECS | Jenkins | GitHub Actions | GitLab CI/CD | Terraform | Python | Bash | New Relic | Prometheus | Grafana
@@ -25,12 +24,6 @@ e
 ![Amazon RDS](https://img.shields.io/badge/Amazon_RDS-527FFF?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Amazon DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazon-dynamodb&logoColor=white)
 ![Amazon DocumentDB](https://img.shields.io/badge/Amazon_DocumentDB-4A154B?style=for-the-badge&logo=amazon-aws&logoColor=white)
-
----
-
-## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=akshay09968&theme=dark&hide_border=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=akshay09968&theme=dark&hide_border=false)<br/>
 
 ---
 
